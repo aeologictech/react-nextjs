@@ -1,0 +1,27 @@
+{
+  "name": "react-nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsblend/react-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsblend/react-nextjs/issues"
+  },
+  "homepage": "https://github.com/jsblend/react-nextjs#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "next": "^10.1.3",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2"
+  }
+}
