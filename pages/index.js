@@ -1,9 +1,11 @@
+import Header from '../components/header'
+import Footer from '../components/footer'
 const index = () => {
     return (
         <div className="container">
             <div className="jumbotron">
+                <Header />
                 <h1>This is NextJs Index Page</h1>
-                <h3>NextJS is best Starter</h3>
                 <button className="btn btn-primary">
                     <a href='/about'>
                         About 
@@ -19,6 +21,7 @@ const index = () => {
                         Contact Us
                     </a>
                 </button>
+                <Footer />
             </div>
         </div>
     )

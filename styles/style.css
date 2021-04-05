@@ -4,12 +4,17 @@ body {
     padding: 20px 20px 60px;
     max-width: 680px;
     margin: 0 auto;
+    color: rgb(155, 141, 141);
     background: thistle;
 }
 
 .btn {
     margin: 5%;
     padding: 2%;
+}
+
+.jumbotron {
+    background: white;
 }
 
 a{
